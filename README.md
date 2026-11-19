@@ -1,6 +1,10 @@
+<img width="1200" height="300" alt="file_00000000394c8211a6b1125686fc237b" src="https://github.com/user-attachments/assets/92e33132-4ec4-467e-ae6e-caa800bb5be7" />
+
 # Ashik Creative Studio — GitHub Pages ওয়েবসাইট
 
 এটি Ashik Creative Studio এর হোম পেজের স্ট্যাটিক সংস্করণ। WordPress থিম থেকে তৈরি, GitHub Pages এ বিনামূল্যে চলবে। কোনো সার্ভার, ডাটাবেস বা PHP লাগে না।
+
+<img width="720" height="350" alt="20261120_031443 jpg" src="https://github.com/user-attachments/assets/b808aa91-b74e-41e7-b2b2-f35e9d698248" />
 
 ## ফাইল ও ফোল্ডার
 
